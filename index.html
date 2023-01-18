@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Survey form ui designed for the FreeCodeCamp's Responsive Web Design Certification.">
+    <title>Z-bj Survey Form</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://iili.io/huRt9f.png" alt="huRt9f.png">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+
+<body>
+
+    <header>
+
+        <h1 id="title" class="Title">Hi! <br>My name is Zak, <br><br> I'm a versatile Front-end Developer.</h1>
+
+        <h3>I save tech leads' mental load 🧠🔥</h3>
+
+        <p id="description">
+            I'll work for <s>referrals</s>, <s>exposure</s>, <s>chocolate</s>, <strong>money</strong>.
+            <br>
+            <br>
+            If you need a versatile dev pal, look no further... <br>
+            All you have to do is filling out the form below, <br> and I'll see you soon...</p>
+        </h2>
+
+    </header>
+
+
+
+
+
+    <section class="form">
+        <form id="survey-form">
+            <h4>
+                Don't be as stranger ツ <br>Tell me more about yourself.</h4>
+            <small>Automatic data transfer to the US.<br>#cloudAct 😂</small>
+
+            <div class="form-group">
+                <label id="name-label" for="name">ㅤ</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required>
+            </div>
+
+            <div class="form-group">
+                <label id="email-label" for="email">ㅤ</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Enter your Email"
+                    required>
+            </div>
+
+            <div class="form-group">
+                <label id="number-label" for="number">ㅤ</label><span class="clue"></span></label>
+                <input type="number" name="age" id="number" min="10" max="99" class="form-control"
+                    placeholder="Age (optional)">
+            </div>
+
+            <div class="form-group">
+
+                <select id="dropdown" name="service" class="form-control" required>
+                    <option disabled selected value>How can I help you?</option>
+                    <option value="projects">Privat Project</option>
+                    <option value="open-source">Open Source</option>
+                    <option value="learning">Teaching</option>
+                    <option value="advices">Advices</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <p> </p>
+                <select id="dropdown" name="role" class="form-control" required>
+                    <option disabled="" selected="" value="">What type of Dave do you need?</option>
+                    <option value="skilled">A skilled one who is fun to deal with?</option>
+                    <option value="devops">Familiar with DevOps and Agile methods?</option>
+                    <option value="listening">Listening to your problems and providing quick feedback?</option>
+                    <option value="communication">Who knows how to communicate with your front & back-end teams?
+                    </option>
+                    <option value="grit">One with a healthy helping of grit?</option>
+                    <option value="all">It's really tense, I need that all!</option>
+                </select>
+            </div>
+
+            <p>
+                What is the size of your team?
+            </p>
+
+            <div class="radiogroup">
+                <div class="wrapper">
+                    <input class="state" type="radio" name="app" id="1" value="1 to 20">
+                    <label class="label" for="1">
+                        <div class="indicator"></div>
+                        <span class="text"><20</span>
+                    </label>
+                </div>
+
+                <div class="wrapper">
+                    <input class="state" type="radio" name="app" id="2" value="20 to 50">
+                    <label class="label" for="2">
+                        <div class="indicator"></div>
+                        <span class="text"> < 50</span>
+                    </label>
+                </div>
+
+                <div class="wrapper">
+                    <input class="state" type="radio" name="app" id="3" value="50 to 200">
+                    <label class="label" for="3">
+                        <div class="indicator"></div>
+                        <span class="text"> < 200</span>
+                    </label>
+                </div>
+
+                <div class="wrapper">
+                    <input class="state" type="radio" name="app" id="4" value=" >200😲">
+                    <label class="label" for="4">
+                        <div class="indicator"></div>
+                        <span class="text">>200😲</span>
+                    </label>
+                </div>
+            </div>
+
+
+            <p>
+                How did you hear about me?
+            </p>
+
+            <div class="radiogroup">
+                <div class="wrapper">
+                    <input class="state" type="checkbox" name="canal" id="a" value="Linkedin">
+                    <label class="label" for="a">
+                        <div class="indicator"></div>
+                        <span class="text">Linkedin</span>
+                    </label>
+                </div>
+
+                <div class="wrapper">
+                    <input class="state" type="checkbox" name="canal" id="b" value="Github">
+                    <label class="label" for="b">
+                        <div class="indicator"></div>
+                        <span class="text">GitHub</span>
+                    </label>
+
+                </div>
+                <div class="wrapper">
+                    <input class="state" type="checkbox" name="canal" id="c" value="Twitter">
+                    <label class="label" for="c">
+                        <div class="indicator"></div>
+                        <span class="text">Twitter</span>
+                    </label>
+
+                </div>
+                <div class="wrapper">
+                    <input class="state" type="checkbox" name="canal" id="d" value="Word of mouth">
+                    <label class="label" for="d">
+                        <div class="indicator"></div>
+                        <span class="text">Other</span>
+                    </label>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <p>Any other specific need?</p>
+                <textarea id="comments" class="input-textarea" name="comment" placeholder="Tell me about it here...">
+                </textarea>
+            </div>
+
+
+            <div class="form-group">
+                <button type="submit" id="submit" class="submit-button">
+                    Submit
+                </button>
+            </div>
+
+
+            <img src="https://iili.io/huAXgs.gif" alt="daft-zak.gif"
+            border="0">
+
+
+            <p>P.S. You can Dming me on Linkedin if you do not receive any
+                answer within 48h.</p>
+
+            <div class="container-social">
+                <a class="github"><i class="fa fa-github"></i></a>
+                <a class="codepen"><i class="fa fa-linkedin"></i></a>
+                <a class="twitter"><i class="fa fa-twitter"></i></a>
+                <a class="codepen"><i class="fa fa-codepen"></i></a>
+            </div>
+
+            <div class="certificate">
+                <small>Certification Project, Survey Form, <a class="hover-underline"href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form">FreeCodeCamp(🔥)</a>
+                    <br> Powered by z-bj</small>
+            </div>
+            
+
+
+
+        </form>
+
+    </section>
+
+
+
+
+</body>
+
+</html>
