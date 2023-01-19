@@ -10,8 +10,6 @@
 
 ## UI created for the Responsive Web Design Certification: "Build a survey form"
 
-
-
 You can see it [here](z-bj.github.io/Dont-be-a-Stranger/).
 
 Made with 🎉 and ☕
