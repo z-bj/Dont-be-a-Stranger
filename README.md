@@ -1,4 +1,4 @@
-# A survey form to collect data from my users.
+# A survey form to collect data from users.
 
 ![banner](https://github.com/z-bj/Dont-be-a-Stranger/blob/master/Dont_be_a_stronger_banner.png)
 
@@ -8,11 +8,11 @@
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 ![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)
 
-## UI created for the Responsive Web Design Certification:
+## UI created for the Responsive Web Design Certification: "Build a survey form"
 
-### "Build a survey form".
 
-You can see it [here]().
+
+You can see it [here](z-bj.github.io/Dont-be-a-Stranger/).
 
 Made with 🎉 and ☕
 
