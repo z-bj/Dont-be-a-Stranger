@@ -1,5 +1,3 @@
-# NEUROMORPHIC SURVEY FORM 
-
 ![banner](https://github.com/z-bj/Dont-be-a-Stranger/blob/master/Dont_be_a_stronger_banner.png)
 
 
