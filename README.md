@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/Dont-be-a-Stranger/blob/master/Dont_be_a_stronger_banner.png)
+![banner](https://github.com/z-bj/Dont-be-a-Stranger/blob/master/Dont_be_a_stronger_banner.webp)
 
 
 ## UI Designed for the Responsive Web Design Certification.
