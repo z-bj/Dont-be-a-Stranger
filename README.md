@@ -10,7 +10,7 @@
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
 ### ➪ Read the [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
-### ➪ View the [page](https://z-bj.github.io/Dont-be-a-Stranger/)
+### ➪ View the [result](https://z-bj.github.io/Dont-be-a-Stranger/)
 
 
 
