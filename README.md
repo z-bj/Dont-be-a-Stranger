@@ -9,7 +9,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
-### ➪ Read the [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+### ➪ Read the [User story](https://github.com/z-bj/Dont-be-a-Stranger/blob/master/User_story.md)
 ### ➪ View the [result](https://z-bj.github.io/Dont-be-a-Stranger/)
 
 
