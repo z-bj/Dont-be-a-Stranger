@@ -41,7 +41,7 @@ bashCopy code
 
 ## Usage
 
-To view the survey form, open the `index.html` file in your web browser. You can also view a live demo [here](https://[username].github.io/%5BREPOSITORY_NAME%5D/).
+To view the survey form, open the `index.html` file in your web browser. You can also view a live demo [here](z-bj.github.io/Dont-be-a-Stranger/).
 
 ## Credits
 
