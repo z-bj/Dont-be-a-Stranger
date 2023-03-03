@@ -42,10 +42,11 @@ The survey form includes fields for users to input their name, email, age, proje
 
 To get started with the project, simply clone or download this repository to your local machine:
 
-bashCopy code
+``` bash
 
-`git clone https://github.com/[USERNAME]/[REPOSITORY_NAME].git`
+git clone https://github.com/z-bj/Dont-be-a-Stranger.git
 
+```
 ## Usage
 
 To view the survey form, open the `index.html` file in your web browser. You can also view a live demo [here](z-bj.github.io/Dont-be-a-Stranger/).
